@@ -1,6 +1,0 @@
-{
-  "name": "Google Sentinel",
-  "description": "Predictive urban mobility engine with a Cyber-Noir aesthetic.",
-  "requestFramePermissions": ["geolocation"],
-  "majorCapabilities": []
-}
